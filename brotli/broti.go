@@ -1,5 +1,0 @@
-package broti
-
-import (
-	"C"
-)
